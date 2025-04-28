@@ -19,7 +19,7 @@ Abaixo temos a imagem real de um LED WS2812B. A matriz WS2812B está conectada a
 
 E aqui, o módulo funcionando:
 
-![Video do Funcionamento](https://github.com/user-attachments/assets/fe756a11-91a7-4b20-975c-9934acfdb9c6)
+![Video do Funcionamento](https://github.com/Kallel2099/ESP32s_NeoPixel_Strip_WS2812B/blob/master/ws2812B.mp4)
 
 #### Pinagem da Barra de LEDs WS2812B com 8 LEDS Endereçáveis
 
